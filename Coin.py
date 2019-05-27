@@ -1,4 +1,3 @@
-#Coin toss model
 import random
 
 number_of_tests = 1000
